@@ -16,6 +16,8 @@ import org.testng.annotations.Test;
 //import objectRepository.SysDig_HomePage;
 //import objectRepository.SysDig_MyProfilePage;
 
+//Launching all browsers -- 11 Nov 2021
+
 public class LaunchTool_AllBrowsersTest 
 {
 	
